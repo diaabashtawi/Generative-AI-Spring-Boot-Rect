@@ -14,8 +14,7 @@ target/
 .sts4-cache
 
 
-### app.prop ###
-*.properties
+
 
 
 ### IntelliJ IDEA ###
@@ -23,6 +22,7 @@ target/
 *.iws
 *.iml
 *.ipr
+*.properties
 
 
 ### NetBeans ###
