@@ -13,8 +13,9 @@ target/
 .springBeans
 .sts4-cache
 
-!src/main/resources/    # Keep resource files, ignore generated ones
-**/application.properties
+# Ignore application properties
+application.properties
+
 
 
 ### IntelliJ IDEA ###
