@@ -33,12 +33,6 @@ public class GenAIController {
         return chatService.getResponseOptions(prompt);
     }
 
-//    @GetMapping("/generate-image")
-//    public void generateImage(@RequestParam String prompt, HttpServletResponse response) throws IOException {
-//        ImageResponse imageResponse = imageService.generateImage(prompt);
-//        String imageUrl = imageResponse.getResult().getOutput().getUrl();
-//        response.sendRedirect(imageUrl);
-//    }
 
     @GetMapping("/generate-image")
     public List<String> generateImage(@RequestParam String prompt,
