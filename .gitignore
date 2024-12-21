@@ -16,8 +16,7 @@ target/
 
 ### app.prop ###
 *.properties
-application.properties
-/src/main/resources/env.properties
+
 
 ### IntelliJ IDEA ###
 .idea
