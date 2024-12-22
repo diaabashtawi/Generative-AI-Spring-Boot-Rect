@@ -99,5 +99,3 @@ For any inquiries, feel free to reach out:
 Enjoy the project! 🌟 Feel free to explore, contribute, and share your feedback. Happy coding! 💻✨
 
 ---
-
-You can further personalize it by adding specific paths to images, improving styles, and adding more detailed information as necessary.
