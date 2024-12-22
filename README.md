@@ -1,5 +1,3 @@
-Sure, here's the updated README file with the AI Model information specified as using OpenAI:
-
 ---
 
 # 🌟 Generative AI with Spring Boot & React 🌟
