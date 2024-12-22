@@ -6,7 +6,7 @@ Sure, here's the updated README file with the AI Model information specified as 
 
 Welcome to the **Generative AI** project! This repository contains a powerful and creative application that combines **Spring Boot** and **React** to generate images, recipes, and provide AI-powered chat functionalities. Let's dive into the exciting features of this project! 🚀
 
-![Generative AI Banner](path/to/banner/image)
+
 
 ## 🌈 Features
 
